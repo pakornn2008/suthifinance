@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "sarabun",
+      "destination": "https://script.google.com/macros/s/AKfycbyC_g05B7Fi9Ok5JwyIiolGWUZ1Qx-brL51NY3nTrKfNvfS7ywi9FCplluLm6YYbQb2mQ/exec",
+      "permanent": false
+    }
+  ]
+}
